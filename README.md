@@ -16,3 +16,7 @@ gender classification, surpassing the RNN’s 93% and LSTM’s 92%. Overall, the
 underscore the effectiveness of ANN and CNN models in age and gender classification
 tasks, suggesting that future work should focus on optimizing recurrent models and
 refining feature extraction techniques to enhance performance across all demographics.
+
+
+
+the data set taken from: https://commonvoice.mozilla.org/en/datasets
